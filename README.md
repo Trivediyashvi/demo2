@@ -9,10 +9,7 @@
     <h5>item 2 </h5>
     <h5>item 3 </h5>
     <h5>item 4 </h5>
- <code> system.out.println("Hello World");</code>
-
-  
-  Load image: 
+ <code> system.out.println("Hello World");</code> 
   </body>
 </head>
 </html>
