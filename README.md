@@ -10,10 +10,9 @@
     <h5>item 3 </h5>
     <h5>item 4 </h5>
  <code> system.out.println("Hello World");</code>
+
   
-  link to website:<a> Oklahoma city university </a>
- <h5>Load Image: </h5>
-  
-</body>
+  Load image: 
+  </body>
 </head>
 </html>
